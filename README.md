@@ -6,3 +6,6 @@ The last time I made changes and committed directly to the master branch, which 
 
 I haven't coded in quite some time.  I sit behind a desk and direct other IT professionals.  It would be nice to code again.
 
+I'm now comparing gitlab, github and bitbucket.
+They all have some fine points.
+GitLab is used by the Board.
